@@ -1,3 +1,0 @@
-/home/ahmed/Documents/sudoku csp/cmake-build-debug/CMakeFiles/sudoku_csp.dir
-/home/ahmed/Documents/sudoku csp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/ahmed/Documents/sudoku csp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
