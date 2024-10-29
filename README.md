@@ -23,7 +23,7 @@ sudo apt install libgtk-3-dev
 ```
 ## Compilation and Setup
 
-1. **Clone this repository:**
+1.**Clone this repository:**
 
    ```bash
    git clone https://github.com/Ahmedvini/Sudoku_CSP
@@ -98,7 +98,7 @@ sudoku_solver/
   cmake ..
   make
   ```
-  ## License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
